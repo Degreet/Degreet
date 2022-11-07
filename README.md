@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Degreet
+- 🇺🇦 I live in Ukraine
+- 🌱 I’m currently learning TypeScript
+- 📫 degreetpro@gmail.com
