@@ -1,15 +1,43 @@
-# Degreet
-### JavaScript/Python developer
+<h1 align="center">Mykyta Voitsekhovskyi</h1>
 
-⤷ I enjoy developing telegram bots and other backend applications.
+<p align="center">
+  <a href="https://github.com/Degreet">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=500&lines=A+Serial+Coder.;Node.js+%26+NestJS+Developer.;Building+systems+that+scale." />
+  </a>
+</p>
 
- <a aligh="left" href="mailto:degreetpro@gmail.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/socials/at.svg" alt="Email" width="22" height="22" /></a>  
+---
 
-⚐ Based in Ukraine
+Self-taught backend developer from Ukraine 🇺🇦, shaped by production failures — not tutorials.  
+Built on real systems, real mistakes, and shipping code that actually works.
 
-ϟ Currently started learning Aiogram 3
+I believe programming isn't just a skill. It's a way of thinking. A discipline.  
+I write code the way some people practice martial arts — with intent, form, and obsession over the details nobody sees.
 
-ϟ Recently wrote a module for working with i18n fluent for Telegraf
+<br/>
 
- ## Skills
-   <a href="https://www.javascript.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" /></a> <a href="https://www.python.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" /></a> <a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" /></a>  <a href="https://html.com/html5/" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" /></a> <a href="https://css3.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" /></a> <a href="https://reactjs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" /></a> <a href="https://vuejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/vue.svg" alt="Vue" width="25" height="25" /></a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/sass.svg" alt="SASS" width="25" height="25" /></a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/frontend/bootstrap.svg" alt="Bootstrap" width="25" height="25" /></a>  <a href="https://nodejs.org" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/nodejs.svg" alt="NodeJS" width="25" height="25" /></a> <a href="http://expressjs.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/express.svg" alt="Express" width="25" height="25" /></a> <a href="https://www.mongodb.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/mongodb.svg" alt="Mongo DB" width="25" height="25" /></a> <a href="https://www.mysql.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/backend/mysql.svg" alt="MySQL" width="25" height="25" /></a>    <a href="http://figma.com" target="_blank" rel="noreferrer noopener"><img src="https://raw.githubusercontent.com/0xShapeShifter/readme-md/master/public/images/skills/software/figma.svg" alt="Figma" width="25" height="25" /></a> 
+### 🛠 Stack
+
+<img src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,postgres,mongodb,redis,docker,aws" />
+
+<br/>
+
+### 📌 Projects
+
+**[NestFinance](https://github.com/Degreet/nest-finance)** `NestJS · TypeScript · PostgreSQL · AWS`  
+A financial management REST API focused on clean architecture,  
+financial precision, and production-grade infrastructure.
+
+<br/>
+
+### 🧭 What drives me
+
+- Building backend systems that are both **reliable and beautiful** under the hood
+- Automation at scale — queues, failover, AI integration
+- Architecture that makes you stop and think *"damn, this is clean"*
+
+<br/>
+
+---
+
+<p align="center"><em>I have a code.</em></p>
